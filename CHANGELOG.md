@@ -5,3 +5,4 @@
 - 2026-10-24: handle 4xx deferral in retry loop
 - 2026-10-24: bump example config
 - 2026-10-24: add TLS troubleshooting section
+- 2026-10-24: add optional DKIM selector setting
