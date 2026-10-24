@@ -6,3 +6,4 @@
 - 2026-10-24: bump example config
 - 2026-10-24: add TLS troubleshooting section
 - 2026-10-24: add optional DKIM selector setting
+- 2026-10-24: correct typo in API reference
