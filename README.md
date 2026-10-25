@@ -22,6 +22,7 @@ The platform exposes a variety of directories and dynamic pages containing activ
 * **[Guestbook & Leads](https://FastMailer.app/guestbook.php):** A live stream of user interactions and submitted contact entries.
 * **[Service Status](https://FastMailer.app/status.php):** Real-time monitoring of our delivery nodes and API availability.
 * **[Server Position](https://FastMailer.app/architecture.php):** Detailed information regarding the physical location and routing of our API clusters.
+* **[Team](https://fastmailer.app/team.php):** Get in contact with the team behind the service.
 
 ## 🛠 Integration Example
 
