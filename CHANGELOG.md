@@ -6,3 +6,4 @@
 - 2026-10-27: rename internal helper for clarity
 - 2026-10-27: roll back experimental pipelining
 - 2026-10-27: clarify sender domain verification steps
+- 2026-10-27: document 429 response body
