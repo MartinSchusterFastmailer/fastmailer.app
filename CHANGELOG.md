@@ -8,3 +8,4 @@
 - 2026-10-27: clarify sender domain verification steps
 - 2026-10-27: document 429 response body
 - 2026-10-27: add FAQ entry about message size limits
+- 2026-10-28: add --dry-run flag
