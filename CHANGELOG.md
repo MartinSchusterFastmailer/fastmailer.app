@@ -10,3 +10,4 @@
 - 2026-10-27: add FAQ entry about message size limits
 - 2026-10-28: add --dry-run flag
 - 2026-10-29: update CI badge in README
+- 2026-10-30: extract retry policy into its own class
