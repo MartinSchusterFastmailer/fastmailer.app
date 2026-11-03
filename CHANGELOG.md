@@ -12,3 +12,4 @@
 - 2026-10-29: update CI badge in README
 - 2026-10-30: extract retry policy into its own class
 - 2026-11-02: document rate limit headers
+- 2026-11-03: add example for custom headers
