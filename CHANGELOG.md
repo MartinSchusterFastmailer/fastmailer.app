@@ -14,3 +14,4 @@
 - 2026-11-02: document rate limit headers
 - 2026-11-03: add example for custom headers
 - 2026-11-04: refresh sample .env file
+- 2026-11-05: respect server-advertised SIZE limit
