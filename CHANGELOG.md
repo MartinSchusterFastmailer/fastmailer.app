@@ -15,3 +15,4 @@
 - 2026-11-03: add example for custom headers
 - 2026-11-04: refresh sample .env file
 - 2026-11-05: respect server-advertised SIZE limit
+- 2026-11-06: encode non-ASCII display names per RFC 2047
