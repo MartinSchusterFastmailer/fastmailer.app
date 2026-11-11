@@ -18,3 +18,4 @@
 - 2026-11-06: encode non-ASCII display names per RFC 2047
 - 2026-11-09: unify error response format
 - 2026-11-10: refresh sample .env file
+- 2026-11-11: cover timeout handling in retry loop
