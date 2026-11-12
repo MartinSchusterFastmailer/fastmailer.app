@@ -20,3 +20,4 @@
 - 2026-11-10: refresh sample .env file
 - 2026-11-11: cover timeout handling in retry loop
 - 2026-11-12: normalize heading levels
+- 2026-11-12: document 429 response body
