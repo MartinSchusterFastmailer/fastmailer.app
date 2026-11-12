@@ -19,3 +19,4 @@
 - 2026-11-09: unify error response format
 - 2026-11-10: refresh sample .env file
 - 2026-11-11: cover timeout handling in retry loop
+- 2026-11-12: normalize heading levels
