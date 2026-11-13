@@ -22,3 +22,4 @@
 - 2026-11-12: normalize heading levels
 - 2026-11-12: document 429 response body
 - 2026-11-12: allow per-message tags for analytics
+- 2026-11-13: cache dependencies between runs
