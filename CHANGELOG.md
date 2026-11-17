@@ -24,3 +24,4 @@
 - 2026-11-12: allow per-message tags for analytics
 - 2026-11-13: cache dependencies between runs
 - 2026-11-16: handle connection reset during DATA
+- 2026-11-17: add delivered and deferred event types
