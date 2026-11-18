@@ -25,3 +25,4 @@
 - 2026-11-13: cache dependencies between runs
 - 2026-11-16: handle connection reset during DATA
 - 2026-11-17: add delivered and deferred event types
+- 2026-11-18: fall back to system CA bundle
