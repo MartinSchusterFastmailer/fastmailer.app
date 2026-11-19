@@ -26,3 +26,4 @@
 - 2026-11-16: handle connection reset during DATA
 - 2026-11-17: add delivered and deferred event types
 - 2026-11-18: fall back to system CA bundle
+- 2026-11-19: add Python example for authenticated submission
