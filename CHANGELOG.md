@@ -30,3 +30,4 @@
 - 2026-11-20: add TLS troubleshooting section
 - 2026-11-23: add FAQ entry about message size limits
 - 2026-11-24: add template variable validation
+- 2026-11-25: add optional DKIM selector setting
