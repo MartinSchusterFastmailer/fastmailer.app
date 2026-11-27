@@ -32,3 +32,4 @@
 - 2026-11-24: add template variable validation
 - 2026-11-25: add optional DKIM selector setting
 - 2026-11-26: handle empty recipient list gracefully
+- 2026-11-27: reuse TLS sessions between messages
